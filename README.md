@@ -13,12 +13,12 @@ The more commits they have made, the bigger the avatar should be. For example:
 
 Technologies used
 ----
--Javascript
--jQuery
--Jasmine
--AJAX
--Git
--Github API
+- Javascript
+- jQuery
+- Jasmine
+- AJAX
+- Git
+- Github API
 
 How to run it
 ----
